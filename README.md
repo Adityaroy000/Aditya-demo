@@ -1,4 +1,4 @@
 # Aditya-demo
 This is my first git repository.
 <br>
-Author - Aditya roy
+Author - Aditya (KIIT)
